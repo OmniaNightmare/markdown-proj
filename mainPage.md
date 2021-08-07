@@ -1,34 +1,11 @@
+# Практическое задание по Markdown 
 
-
-# Практическое задание по Markdown
-
-<details> 
- <summary>Цели к практической работе.</summary>
-
-<center>Критерии оценки выполненного задания</center>
-
-<div class="h1">0 баллов</div>
-
-+ Задание не выполнено. *( Даже не надейтесь &#128540; )*
-
-<div class="h2">5 баллов</div>
-
-+ Работа загружена на <a href="https://github.com/">GitHub.</a>
-+ Использованы основные возможности Markdown: изображения, **полужирный**, *курсив*, <a href="http://memesmix.net/media/created/hfjfdy.jpg">ссылки</a>, ```код```, [заголовки](layers/headings.md).
-+ Описаны основные команды Git.
-+ Текст материала не является копией теории.
-+ Гитигнор содержит основные шаблоны (редакторы кода).
-+ В истории Git два и более коммита.
-+ Сообщения коммитов осмыслены, но не многословны.
-
-<div class="h3">10 баллов</div>
-
-+ Выполнены все условия на 5 баллов.
-+ Работа выполнена с творческим подходом и использованием других возможностей Markdown.
-+ В работе более 10 связанных md-файлов.
-</details>
+<p align="center"><img src="img\800px-Markdown-mark.svg.png" alt="Логотип Markdown" width="300px"/></p>
 
 <br>
+
+<div class="main">
+<div class="commands">
 
 ## Команды Git
 
@@ -99,19 +76,42 @@
 
 </details> 
 
+<br>
 
+<details> 
+ <summary>Цели к практической работе.</summary>
 
+Критерии оценки выполненного задания
+<div class="targets">
+<div class="h1">0 баллов</div>
 
++ &#9989; Задание не выполнено. *( Даже не надейтесь &#128540; )*
 
+<div class="h2">5 баллов</div>
 
++ &#9989; Работа загружена на <a href="https://github.com/">GitHub.</a>
++ &#9989; Использованы основные возможности Markdown: изображения, **полужирный**, *курсив*, <a href="http://memesmix.net/media/created/hfjfdy.jpg">ссылки</a>, ```код```, [заголовки](layers/headings.md).
++ &#9989; Описаны основные команды Git.
++ &#9989; Текст материала не является копией теории.
++ &#9989; Гитигнор содержит основные шаблоны (редакторы кода).
++ &#9989; В истории Git два и более коммита.
++ &#9989; Сообщения коммитов осмыслены, но не многословны.
 
+<div class="h3">10 баллов</div>
 
++ &#9989; Выполнены все условия на 5 баллов.
++ &#9989; Работа выполнена с творческим подходом и использованием других возможностей Markdown.
++ &#9989; В работе более 10 связанных md-файлов.
+</div>
+</details>
 
+</div>
+</div>
 
+<br>
+<br>
 
-
-
-
+<center>На этом главная страница заканчивается, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.</center>
 
 
 
@@ -126,14 +126,11 @@
     main{
         background-color: gray;
     }
-    center{
-        color: #FF8C00;
-    }
     .h1{
         color: red;
     }
     .h2{
-        color: yellow;
+        color: #FF00FF;
     }
     .h3{
         color: green;
@@ -158,4 +155,21 @@
         color: #FF6347;
         font-size: 20px;
     }
+    .main{
+        text-align: center;
+    }
+    .commands{
+        text-align: center;
+        margin: 0 auto;
+        padding: 10px 0 10px 0;
+        width: 70%;
+        border: 2px solid #696969;
+        border-radius: 10px;
+        background-color: #DCDCDC;
+    }
+    .targets{
+        text-align: left;
+        padding: 0 10px 0 10px;
+    }
+
 </style>

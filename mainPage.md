@@ -111,17 +111,12 @@
 <br>
 <br>
 
+<center><a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a></center>
+
 <center>На этом главная страница заканчивается, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.</center>
 
 <br>
 <br>
-
-
-
-
-
-
-
 
 
 <style>

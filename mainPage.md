@@ -110,9 +110,10 @@
 
 <br>
 <br>
+<center><a href="layers\quotes.md">Цитатки</a></center>
 
 <center><a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a></center>
-
+<br>
 <center>На этом главная страница заканчивается, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.</center>
 
 <br>

@@ -111,17 +111,29 @@
 <br>
 <br>
 
-<center><a href="layers\markdown.md">Руководство по Markdown</a></center>  
+<center><a href="layers\markdown.md">Руководство по Markdown</a></center>
+
+<br>
 
 <center><a href="layers\quotes.md">Цитатки</a></center>  
 
+<br>
+
 <center><a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a></center>
+
+<br>
 
 <center><a href="layers\codes.md">Примеры кодов</a></center>
 
+<br>
+
 <center><a href="layers\videos.md">Видео YouTube</a></center>
 
+<br>
+
 <center><a href="layers\gitignor.md">Синтаксис gitignore</a></center>
+
+<br>
 
 <center>На этом главная страница заканчивается, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.</center>
 

@@ -111,57 +111,35 @@
 <br>
 <br>
 
-<center>
+<center><a href="layers\markdown.md">Руководство по Markdown</a></center>
 
-<a href="layers\markdown.md">Руководство по Markdown</a>
+<br>
 
-</center>
+<center><a href="layers\quotes.md">Цитатки</a></center>  
 
-<center>
+<br>
 
-<a href="layers\quotes.md">Цитатки</a>
+<center><a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a></center>
 
-</center>  
+<br>
 
+<center><a href="layers\codes.md">Примеры кодов</a></center>
 
-<center>
+<br>
 
-<a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a>
+<center><a href="layers\videos.md">Видео YouTube</a></center>
 
-</center>
+<br>
 
+<center><a href="layers\gitignor.md">Синтаксис gitignore</a></center>
 
-<center>
+<br>
 
-<a href="layers\codes.md">Примеры кодов</a>
+<center>На этом главная страница и моя фантазия заканчиваются, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.</center>
 
-</center>
+<br>
 
-
-<center>
-
-<a href="layers\videos.md">Видео YouTube</a>
-
-</center>
-
-
-<center>
-
-<a href="layers\gitignor.md">Синтаксис gitignore</a>
-
-</center>
-
-<center>
-
-На этом главная страница и моя фантазия заканчиваются, поэтому предлагаю Вам посмотреть на моего <a href="layers/persik.md">кота</a>.
-
-</center>
-
-<center>
-
-<a href="layers\sheet1.md">Ну пожалуйста...</a>
-
-</center>  
+<center><a href="layers\sheet1.md">Ну пожалуйста...</a></center>  
 
 
 <br>

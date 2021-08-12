@@ -111,9 +111,9 @@
 <br>
 <br>
 
-<center><a href="layers\markdown.md">Руководство по Markdown</a></center>
+<center><a href="layers\markdown.md">Руководство по Markdown</a></center>  
 
-<center><a href="layers\quotes.md">Цитатки</a></center>
+<center><a href="layers\quotes.md">Цитатки</a></center>  
 
 <center><a href="layers\CSSflexbox.md">Шпаргалка по CSS Flexbox</a></center>
 
